@@ -9,7 +9,7 @@
   <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
     <ul class="navbar-nav">
       <li class="nav-item active ">
-        <a class="nav-link" href="index.php">Never miss out</a>
+        <a class="nav-link" href="never-miss-out.php">Never miss out</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="about_us.php">Get the insights that matter</a>

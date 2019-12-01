@@ -3,16 +3,16 @@
 <footer class="dxc-footer centerit pt-2">
   <div class="container">
     <div class="row">
-      <div class="col-12 col-md-4">
+      <div class="col-12 col-md-4 text-md-left text-center">
         <small>@ DXC Technology Company</small>
       </div>
 
-       <div class="col-12 col-md-4  text-center">
+       <div class="col-12 col-md-4   text-center ">
         <small><a href="#">Go to DXC.com</a></small>
       </div>
 
 
-       <div class="col-12 col-md-4 text-md-right text-left">
+       <div class="col-12 col-md-4 text-md-right text-center">
         <ul class="list-inline  ">
           <li class="list-inline-item fwc subtitile"><a href="legal.php">Legal</a></li>
           <li class="list-inline-item fwc subtitile"><a href="privacy.php">Privacy</a></li>
