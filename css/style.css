@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+   font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+.bg-dark {
+    background-color: #000000 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+
+    padding-left: 2rem;
+    font-weight: bold;
+  
+}
+
+
+.nevermissout {
+    background:  url(../img/dxc-nmo.png);
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+    color: #fff;
+    padding-top: 6rem;
+}
+
+.centerit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dxc-yellow {
+  color: #ffed00;
+}
+
+
+.lolololo {
+    border-radius: 50%;
+    padding: 17px 18px 17px 18px;
+     border: 3px solid #ffed00; 
+    transition: all 0.6s;
+    background: #ffed00;
+}
+
+
+.glospace {
+	margin-top: 6rem;
+	margin-bottom: 6em;
+}
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(0.01rem - 1px);
+    border-top-right-radius: calc(0.01rem - 1px);
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    background: black;
+    color: white;
+}
+
+.card2 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff0;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 0.25rem;
+}
+
+
+.ch {
+    min-height: 50px;
+}
+
+.dxc-footer {
+	background: black;
+	padding-top: 2rem !important;
+	padding-bottom:2rem !important;
+
+	color: white;
+}
+
+.fwc a {
+    color: #D7D7D5;
+    text-decoration: none;
+    font-size: 80%;
+    font-weight: 400;
+}
+
+
