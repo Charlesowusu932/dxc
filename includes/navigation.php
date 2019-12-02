@@ -18,7 +18,7 @@
     
 
       <li class="nav-item">
-        <a class="nav-link" href="gallery.php">See what's coming up</a>
+        <a class="nav-link" href="future-events.php">See what's coming up</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="update.php">Get connected</a>

@@ -253,11 +253,13 @@
 <!-- be inspired -->
 
 <!-- brag insight -->
-  <section>
+  <section class="backwhite">
     <div class="container">
       <div class="row">
         <div class="col-12">
+          <a href="#">
           <img src="img/getinspired.png" alt="" class="img-fluid">
+          </a>
         </div>
       </div>
     </div> 
