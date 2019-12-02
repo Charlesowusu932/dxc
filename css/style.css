@@ -299,7 +299,13 @@ body {
 }
 
 
+.entercode {
+	background: black;
+	height: 100vh;
+}
 
-
+.wc {
+	color: #fff;
+}
 
 
