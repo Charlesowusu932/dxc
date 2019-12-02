@@ -48,10 +48,11 @@
             <img src="img/llf.png" alt="" class="img-fluid vasimg">
             <div class="overlay-light-black"></div>
             <div class="text-contain px-4">
+                <p> <small>xxJan 2019 at 09:00am</small></p>
              <h3 class="font-weight-bold">Upcoming LEF Events</h3>
              <p>Don’t miss out our forthcoming events calendar. </p>
 
-             <a href="#" class="btn btn btn-warning mt-3 bc">FIND OUT MORE</a>
+             <a href="#" class="btn btn btn-warning mt-2 bc">FIND OUT MORE</a>
            </div>
          </a>
        </div>
@@ -65,11 +66,11 @@
             <img src="img/nfr.jpg" alt="" class="img-fluid vasimg">
             <div class="overlay-light-black"></div>
             <div class="text-contain px-4">
-              <small>xxJan 2019 at 09:00am</small>
+             <p> <small>xxJan 2019 at 09:00am</small></p>
              <h3 class="font-weight-bold">NRF 2020 Vision</h3>
              <p>Every year, the most influential IT, Strategy, and digital <br> leaders get together over premium cocktails. In New <br> York: we meet I a secret Times Square location. </p>
 
-             <a href="#" class="btn btn btn-warning mt-3 bc">RSVP</a>
+             <a href="#" class="btn btn btn-warning mt-2 bc">RSVP</a>
            </div>
          </a>
        </div>
@@ -83,10 +84,11 @@
             <img src="img/llf.png" alt="" class="img-fluid vasimg">
             <div class="overlay-light-black"></div>
             <div class="text-contain px-4">
-             <h3 class="font-weight-bold">Upcoming LEF Events</h3>
-             <p>Don’t miss out our forthcoming events calendar. </p>
+               <p> <small>13-14 Feb 2020</small></p>
+             <h3 class="font-weight-bold">Scaling up the digital framework</h3>
+             <p>Grand Elysee Hamburg </p>
 
-             <a href="#" class="btn btn btn-warning mt-3 bc">FIND OUT MORE</a>
+             <a href="#" class="btn btn btn-warning mt-2 bc">REGISTER NOW</a>
            </div>
          </a>
        </div>

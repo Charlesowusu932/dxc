@@ -289,13 +289,13 @@ body {
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(to right,rgb(0, 0, 0), rgba(0, 0, 0, 0.72),rgba(0, 0, 0, 0.56));
+    background: linear-gradient(to right,rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.34));
 }
 .text-contain {
     text-align: left;
     color: #fff;
     position: relative;
-    padding-top: 7em;
+    padding-top: 6em;
 }
 
 
