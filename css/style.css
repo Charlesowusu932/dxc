@@ -233,15 +233,21 @@ body {
 	border: 2px solid black;
 }
 
+.fa-2xrr {
+    font-size: 1.3em !important;
+}
+
+.graybb {
+    background: #1d1d1d;
+    padding: 7px 15px;
+}
 
 
 
 
-
-
-
-
-
+.moveleft {
+    margin-left: -2rem;
+}
 
 
 
