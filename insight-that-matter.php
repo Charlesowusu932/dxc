@@ -181,7 +181,7 @@
     <div class="container">
       <div class="row ">
 
-        <div class="col-12 col-md-6  px-2">
+        <div class="col-12 col-md-6  px-2 mb-3">
           <div class="thrive">
           <h3 class="font-weight-bold">Thrive Q&A</h3>
           <p><small>Don’t miss out on our forthcoming events calendar.</small></p>
@@ -191,7 +191,7 @@
         </div>
 
 
-        <div class="col-12 col-md-6  px-2">
+        <div class="col-12 col-md-6  px-2 mb-3">
           <div class="thrive">
           <h3 class="font-weight-bold">Your pathway to digital success</h3>
           <p><small>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis consectetur adipisicing.</small></p>
@@ -204,6 +204,37 @@
   </section>
 
   <!-- thrive  -->
+
+
+  <!-- be inspired -->
+    <section class="bismain ">
+      <div class="container">
+        <div class="row">
+            <div class="col-10 mx-auto">
+              <div class="row centerit">
+          <div class="col-12 col-md-6">
+           <div class="bline">
+                <h3>Be Inspired.</h3>
+              <p><small>Introducing Thrive, your daily source of compelling content on the power of change.</small></p>
+
+              <a href="#" class="btn btn-primary2 btn-block">SUBSCRIBE TO THRIVE NEWSLETTER</a>
+
+              <a href="#" class="btn btn-primary1 btn-block">VISIT THRIVE</a>
+           </div>
+          </div>
+
+          <div class="col-12 col-md-6 thrive">
+             <h3 class="mb-4">Join the conversation</h3>
+            <p class="my-4"><small>You are not alone on your digital transformation journey. Join <br>DXC Technology’s Thrive LinkeIn Group, a community centred one embracing the power of innovation to thrive o change</small></p>
+
+             <a href="#" class="btn btn-primary2 ">LINKEDIN GROUP</a>
+          </div>
+        </div>
+            </div>
+         </div>
+      </div>
+    </section>
+  <!-- be inspired -->
 
 
 

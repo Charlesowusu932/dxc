@@ -64,8 +64,8 @@ body {
 
 
 .glospace {
-	margin-top: 5rem;
-	margin-bottom: 5em;
+	margin-top: 4rem;
+	margin-bottom: 4em;
 }
 
 .card-img-top {
@@ -163,6 +163,54 @@ body {
     font-weight: 600;
 }
 
+
+.btn-primary1 {
+    color: #000;
+    background-color: #ffF;
+    border-color: #000;
+    font-size: 12px;
+    border-radius: 0.01rem;
+    padding: 0.575rem 0.85rem;
+    font-weight: 600;
+}
+
+
+.btn-primary1:hover {
+    color: #000;
+    background-color: #ffF;
+    border-color: #000;
+    font-size: 12px;
+    border-radius: 0.01rem;
+    padding: 0.575rem 0.85rem;
+    font-weight: 600;
+}
+
+.btn-primary2 {
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
+    font-size: 12px;
+    border-radius: 0.01rem;
+    padding: 0.575rem 0.85rem;
+    font-weight: 600;
+}
+
+.btn-primary2:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
+    font-size: 12px;
+    border-radius: 0.01rem;
+    padding: 0.575rem 0.85rem;
+    font-weight: 600;
+}
+
+.btn:focus, .btn.focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0);
+}
+
+
 .btn-warning:focus, .btn-warning.focus {
     box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0);
 }
@@ -170,3 +218,33 @@ body {
 .btn-warning:not(:disabled):not(.disabled):active:focus, .btn-warning:not(:disabled):not(.disabled).active:focus, .show > .btn-warning.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0);
 }
+
+
+.bismain {
+	padding: 5rem 0;
+	background: white;
+}
+
+
+
+
+.bline {
+	padding: 3rem;
+	border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
