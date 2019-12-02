@@ -12,7 +12,7 @@
         <a class="nav-link" href="never-miss-out.php">Never miss out</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="about_us.php">Get the insights that matter</a>
+        <a class="nav-link" href="insight-that-matter.php">Get the insights that matter</a>
       </li>
 
     

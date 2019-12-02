@@ -6,7 +6,7 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #fff;
+    background-color: #f2f2f2;
 }
 
 .bg-dark {
@@ -31,6 +31,18 @@ body {
     padding-top: 6rem;
 }
 
+.insightthatmatter {
+    background: black;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+    color: #fff;
+    padding: 9rem 6rem;
+}
+
+
+
+
 .centerit {
     display: flex;
     align-items: center;
@@ -52,8 +64,8 @@ body {
 
 
 .glospace {
-	margin-top: 6rem;
-	margin-bottom: 6em;
+	margin-top: 5rem;
+	margin-bottom: 5em;
 }
 
 .card-img-top {
@@ -62,12 +74,20 @@ body {
     border-top-right-radius: calc(0.01rem - 1px);
 }
 
-.card-body {
+.card-body2 {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 1.25rem;
     background: black;
     color: white;
+}
+
+.card-body3 {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    background: white;
+    color: black;
 }
 
 .card2 {
@@ -81,7 +101,7 @@ body {
     background-color: #fff0;
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, 0);
-    border-radius: 0.25rem;
+    border-radius: 0.01rem;
 }
 
 
@@ -105,3 +125,48 @@ body {
 }
 
 
+
+.a {
+  background: red;
+}
+
+.b {
+  background: green;
+}
+
+.c {
+  background: blue;
+}
+
+
+.vh-60 {
+    height: 60vh !important;
+}
+
+
+
+.thrive {
+	background: black;
+	min-height: 15rem;
+	color: white;
+	padding: 4rem 3rem;
+}
+
+
+.btn-warning {
+    color: #212529;
+    background-color: #ffed00;
+    border-color: #ffc107;
+    font-size: 12px;
+    border-radius: 0.01rem;
+    padding: 0.575rem 0.85rem;
+    font-weight: 600;
+}
+
+.btn-warning:focus, .btn-warning.focus {
+    box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0);
+}
+
+.btn-warning:not(:disabled):not(.disabled):active:focus, .btn-warning:not(:disabled):not(.disabled).active:focus, .show > .btn-warning.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0);
+}

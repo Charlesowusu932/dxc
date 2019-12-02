@@ -43,7 +43,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-3 px-2">
           <div class="card card2 h-100">
             <img src="img/1.png" class="card-img-top" alt="...">
-            <div class="card-body">
+            <div class="card-body card-body2">
               <h5 class="card-title mb-3 ch">Key Takeaways from <br> Executive Edge Asia</h5>
               <p class="card-text ">Held May 22-23 in Tokyo, DXC Technology Asia’s inaugural CXO event, Executive Edge Asia, provided an opportunity for top business leaders to learn and apply emerging and advancing technologies…</p>
              
@@ -55,7 +55,7 @@
         <div class="col-12 col-md-6 col-lg-4 mb-3 px-2">
           <div class="card card2 h-100">
             <img src="img/2.png" class="card-img-top" alt="...">
-            <div class="card-body">
+            <div class="card-body card-body2">
               <h5 class="card-title mb-3 ch">European Executive <br>
 Forum 2018</h5>
               <p class="card-text ">Our industries seem to be undergoing multiple waves of change from the rise of Amazon, to platform business models, to new paradigms such as serverless, to the emergence of China as a technological force.</p>
@@ -68,7 +68,7 @@ Forum 2018</h5>
         <div class="col-12 col-md-6 col-lg-4 mb-3 px-2">
           <div class="card card2 h-100">
             <img src="img/3.png" class="card-img-top" alt="...">
-            <div class="card-body">
+            <div class="card-body card-body2">
               <h5 class="card-title mb-3 ch">The Decentralization <br>
 of Everything</h5>
               <p class="card-text ">In 2018 two things occurred that captured my imagination. In August, a16z (Andreessen Horowitz) announced a second-round joint investment of $102 million…</p>
@@ -81,7 +81,7 @@ of Everything</h5>
         <div class="col-12 col-md-6 col-lg-4 mb-3 px-2">
           <div class="card card2 h-100">
             <img src="img/4.png" class="card-img-top" alt="...">
-            <div class="card-body">
+            <div class="card-body card-body2">
               <h5 class="card-title mb-3 ch">The shift to the human platform <br>
 study tour report</h5>
               <p class="card-text ">The September 2018 LEF Study Tour was designed to provide a thought-provoking investigation of the concept of The Human as a Platform and how it applies to individuals and organizations.</p>
@@ -94,7 +94,7 @@ study tour report</h5>
         <div class="col-12 col-md-6 col-lg-4 mb-3 px-2">
           <div class="card card2 h-100">
             <img src="img/5.png" class="card-img-top" alt="...">
-            <div class="card-body">
+            <div class="card-body card-body2">
               <h5 class="card-title mb-3 ch">CIO of the year 2018</h5>
               <p class="card-text ">Here is a selection of impressions of the CIO of the year 2018</p>
              
