@@ -379,4 +379,14 @@ top:66px;
 }
 
 
+.homepage {
+	background: black;
+    background:  url(../img/welcome.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+    color: #989898;
+    
+}
+
 
