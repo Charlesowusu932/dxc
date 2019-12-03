@@ -371,9 +371,12 @@ top:66px;
     background: #ffed00;
     color: black;
     border: 1px solid #ffed00;
+    padding-top: 17px;
 }
 
 .twotop {
     margin-top: -2rem;
 }
+
+
 

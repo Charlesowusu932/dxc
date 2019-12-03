@@ -42,7 +42,8 @@
      </div>
 
      <div class="col-12 text-center twotop">
-       <button class="btn btn-success btn-circle btn-circle-xl m-1 text-center">Get<br>Started</button>
+      <a href="#" class="btn  btn-circle btn-circle-xl  text-center">Get<br>Started</a>
+    
      </div>
 
    </div>s
