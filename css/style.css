@@ -304,12 +304,35 @@ body {
 	height: 100vh;
 }
 
+
+.welcome {
+	background: black;
+    background:  url(../img/welcome.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+    color: #989898;
+    
+}
 .wc {
 	color: #fff;
 }
 
 .lbk {
 	color: #595959;
+}
+
+
+.ccc {
+	background: #ffc0c0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 30px;
 }
 
 
