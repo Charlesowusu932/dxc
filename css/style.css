@@ -380,13 +380,13 @@ top:66px;
 
 
 .homepage {
-	background: black;
-    background:  url(../img/welcome.png);
+    background-color: black !important;
+    background: url(../img/homepage.png);
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: center;
     background-size: cover;
     color: #989898;
-    
+    min-height: 100vh;
 }
 
 
