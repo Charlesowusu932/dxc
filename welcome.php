@@ -38,7 +38,7 @@
 
        <p class="font-weight-bold wc">All the insight you need, all I one place</p>
 
-       <h4 class="font-weight-bold wc">Welcome to the <br>Executive Lounge<span class="xc-yellow">.</span></h4>
+       <h4 class="font-weight-bold wc">Welcome to the <br>Executive Lounge<span class="dxc-yellow">.</span></h4>
      </div>
 
      <div class="col-12 text-center twotop">

@@ -390,3 +390,22 @@ top:66px;
 }
 
 
+.yellow-circle {
+    border: 6px solid #ffed00;
+}
+
+ .mthi{
+    min-height: 48px;
+}
+
+.rc2 {
+    border-radius: 50% !important;
+    transition: all 0.3s;
+}
+
+.rc2:hover {
+    border-radius: 50% !important;
+    border: 6px solid #ffed00;
+  
+}
+
