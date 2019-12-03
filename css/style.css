@@ -348,3 +348,32 @@ left: 0;
 right: 0;
 top:66px;
 }
+
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+
+.btn-circle-xl {
+    width: 79px;
+    height: 77px;
+    font-size: 17px;
+    border-radius: 56px;
+    line-height: 15px;
+    font-weight: 700;
+    background: #ffed00;
+    color: black;
+    border: 1px solid #ffed00;
+}
+
+.twotop {
+    margin-top: -2rem;
+}
+

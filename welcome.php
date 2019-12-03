@@ -21,7 +21,7 @@
   <section class="welcome centerit">
     <div class="container">
       <div class="row containerm">
-        
+
        <div class="col-12 text-center">
         <img src="img/roundblack.png" class="img-fluid w-50  " alt="">
       </div>
@@ -41,7 +41,11 @@
        <h4 class="font-weight-bold wc">Welcome to the <br>Executive Lounge<span class="xc-yellow">.</span></h4>
      </div>
 
-   </div>
+     <div class="col-12 text-center twotop">
+       <button class="btn btn-success btn-circle btn-circle-xl m-1 text-center">Get<br>Started</button>
+     </div>
+
+   </div>s
  </div>
 </section>
 
