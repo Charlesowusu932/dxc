@@ -409,3 +409,25 @@ top:66px;
   
 }
 
+.rundimgw {
+	width: 170px
+}
+
+@media (max-width: 575.98px) {
+.rundimgw {
+	width: 150px
+}
+
+ }
+
+
+.spacetop {
+	padding-top: 1rem;
+}
+
+@media (max-width: 575.98px) {
+.spacetop {
+	padding-top: 5rem;
+}
+ }
+
